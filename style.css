@@ -4,11 +4,11 @@
   transform: translateY(-100%);
 }
 
-.h1 {
+h1 {
   font-size: xx-large;  
   color: red;
 }
 
-.p {
+p {
   font-size: small;
 }
